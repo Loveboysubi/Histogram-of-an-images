@@ -28,8 +28,6 @@ The Histogram of gray scale image and color image is shown.
 # Register Number: 212223230220
 ```
 ```
-# Developed By: RIYA P L
-# Register Number: 212223240141
 ## Input Grayscale Image and Color Image:
 import cv2
 import matplotlib.pyplot as plt
